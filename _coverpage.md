@@ -5,7 +5,7 @@
 
 [常用资源](https://shimo.im/docs/MuiACIg1HlYfVxrj/)
 [GitHub](https://github.com/ndxchen/chen)
-[开始阅读](./docs/a-1备战面试.md)
+[开始阅读](docs/a-1备战面试)
 
 
 
