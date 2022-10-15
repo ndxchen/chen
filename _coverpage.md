@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./docs/img/web.jpg" width="200" height="200"/>
+<img src="./docs/img/web.jpg" width="300" height="200"/>
 </p>
 <h1 align="center">前端</h1>
 
