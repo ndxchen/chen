@@ -4,7 +4,7 @@
 
 ### 安利一个在线学习前端的文档
 
-- 在线阅读地址：https://snailclimb.gitee.io/javaguide-interview/#/
+- 在线阅读地址：https://blog.csdn.net/chen3647
 - Github：https://github.com/ndxchen/chen
 - 码云：https://gitee.com/xiaochen036/xiaochen
 
