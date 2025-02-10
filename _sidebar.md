@@ -11,7 +11,7 @@
   - [vue3.x](./docs/front/vue3.md)
   - [nodejs](./docs/front/node.md)
   - [typescript](./docs/front/typescript.md)
-  - [小程序](./docs/front/mini_program.md)
+  - [小程序](./docs/front/mini_programe.md)
   - [http](./docs/front/http.md)
   - [webpack](./docs/front/webpack.md)
   - [Git](./docs/front/git.md)
